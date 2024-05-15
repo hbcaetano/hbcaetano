@@ -2,7 +2,8 @@
 I´m caetano
 I´m currently studying ALURA, and developing on JavasCript´s language
 
-{}https://media.giphy.com/media/TIG6XFVuOriidsTsdu/giphy.gif?cid=790b7611r1jol37guhtuvaj42mkx94j5t3uj5uxny8goyw52&ep=v1_gifs_search&rid=giphy.gif&ct=g
+{https://media.giphy.com/media/TIG6XFVuOriidsTsdu/giphy.gif?cid=790b7611r1jol37guhtuvaj42mkx94j5t3uj5uxny8goyw52&ep=v1_gifs_search&rid=giphy.gif&ct=g}
+
 
 
 

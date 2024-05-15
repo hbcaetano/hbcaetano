@@ -1,4 +1,7 @@
-### Hi there 👋
+### hey there!!
+I´m caetano
+I´m currently studying ALURA, and developing on JavasCript´s language
+
 
 <!--
 **hbcaetano/hbcaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,9 @@
 I´m caetano
 I´m currently studying ALURA, and developing on JavasCript´s language
 
+!{https://media.giphy.com/media/TIG6XFVuOriidsTsdu/giphy.gif?cid=790b7611r1jol37guhtuvaj42mkx94j5t3uj5uxny8goyw52&ep=v1_gifs_search&rid=giphy.gif&ct=g}
+
+
 
 <!--
 **hbcaetano/hbcaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
